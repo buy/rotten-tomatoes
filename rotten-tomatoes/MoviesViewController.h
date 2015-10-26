@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MoviesViewController.h
 //  rotten-tomatoes
 //
 //  Created by Chang Liu on 10/25/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MoviesViewController : UIViewController
 
 @end
-

@@ -16,6 +16,9 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    // Disable caching, so that we can demonstrate features related to making actual requests.
+    NSURLCache *sharedCache = [[NSURLCache alloc] initWithMemoryCapacity:0 diskCapacity:0 diskPath:nil];
+    [NSURLCache setSharedURLCache:sharedCache];
     // Override point for customization after application launch.
     return YES;
 }
