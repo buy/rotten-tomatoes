@@ -22,7 +22,7 @@ Time spent: 10 hours
 - [ ] Customize the navigation bar.
 
 ### Video Walkthrough
-![Video Walkthrough](TBD)
+![Video Walkthrough](https://github.com/buy/rotten-tomatoes/raw/master/demo/rotten_tomatoes_demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/)
 
