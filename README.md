@@ -7,10 +7,11 @@ Time spent: 10 hours
 ### Completed:
 
 - [x] Required: User can view a list of movies from Rotten Tomatoes. Poster images must be loaded asynchronously.
-- [ ] User can view movie details by tapping on a cell.
+- [x] User can view movie details by tapping on a cell.
 - [x] User sees loading state while waiting for movies API. You can use one of the 3rd party libraries listed on CocoaControls.
 - [x] User sees error message when there's a networking error. You may not use UIAlertViewController or a 3rd party library to display the error. See this screenshot for what the error message should look like.
-- [ ] User can pull to refresh the movie list.
+- [x] User can pull to refresh the movie list.
+
 ### Optional:
 - [ ] Add a tab bar for Box Office and DVD.
 - [ ] Implement a UISegmentedControl to switch between a list view and a grid view.
